@@ -6,7 +6,7 @@ This repository contains a simple, responsive web application built with React, 
 
 - **Instant Search**: Implements auto-search functionality, querying the OpenLibrary API as the user types.
 - **Debounced API Calls**: Reduces the frequency of API calls to enhance performance and user experience.
-- **Dynamic Sorting**: Users can toggle the sort order of the search results between relevance and publication year.
+- **Dynamic Sorting**: Users can toggle the sort order based on publication year.
 - **Responsive Design**: Utilizes React-Bootstrap for a layout that adjusts to various screen sizes and devices.
 
 ## Technologies Used
@@ -42,6 +42,3 @@ Ensure you have the following installed:
    ```bash
    npm start
    ```
-### License
-
-Distributed under the MIT License. See LICENSE for more information.
